@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/click-to-copy-the-text/static/css/main.2a9d6512.chunk.css",
+    "main.js": "/click-to-copy-the-text/static/js/main.61e483fc.chunk.js",
+    "main.js.map": "/click-to-copy-the-text/static/js/main.61e483fc.chunk.js.map",
+    "runtime-main.js": "/click-to-copy-the-text/static/js/runtime-main.7a1eed65.js",
+    "runtime-main.js.map": "/click-to-copy-the-text/static/js/runtime-main.7a1eed65.js.map",
+    "static/js/2.aa748b6e.chunk.js": "/click-to-copy-the-text/static/js/2.aa748b6e.chunk.js",
+    "static/js/2.aa748b6e.chunk.js.map": "/click-to-copy-the-text/static/js/2.aa748b6e.chunk.js.map",
+    "index.html": "/click-to-copy-the-text/index.html",
+    "precache-manifest.70f6e51d6d937fb75696e7612bd4e9a1.js": "/click-to-copy-the-text/precache-manifest.70f6e51d6d937fb75696e7612bd4e9a1.js",
+    "service-worker.js": "/click-to-copy-the-text/service-worker.js",
+    "static/css/main.2a9d6512.chunk.css.map": "/click-to-copy-the-text/static/css/main.2a9d6512.chunk.css.map",
+    "static/js/2.aa748b6e.chunk.js.LICENSE.txt": "/click-to-copy-the-text/static/js/2.aa748b6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a1eed65.js",
+    "static/js/2.aa748b6e.chunk.js",
+    "static/css/main.2a9d6512.chunk.css",
+    "static/js/main.61e483fc.chunk.js"
+  ]
+}
